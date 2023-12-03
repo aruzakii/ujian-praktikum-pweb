@@ -1,0 +1,76 @@
+.ml-3{
+    margin-left: 5px;
+}
+
+.login-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px; /* ubah lebar sesuai kebutuhan */
+    height: 370px; /* ubah tinggi sesuai kebutuhan */
+    padding: 40px;
+    background-color:white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .register-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px; /* ubah lebar sesuai kebutuhan */
+    height: 390px; /* ubah tinggi sesuai kebutuhan */
+    padding: 40px;
+    background-color:white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  .login-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%;
+  }
+  
+  .login-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .judul {
+    margin-left: 655px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    border-radius: 50px; /* Nilai yang lebih besar untuk melengkungkan sudut */
+    background-color: orange;
+    padding: 15px;
+    font-size: 50px;
+  }
+  
+  .full-height {
+    height: 100vh;
+    overflow: hidden; /* Menghindari scrollbar vertikal jika diperlukan */
+  }
+  
+
+  .regis{
+    margin-bottom: 5px;
+  }
